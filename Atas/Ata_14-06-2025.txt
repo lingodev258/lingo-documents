@@ -1,0 +1,57 @@
+0. Pontualidade
+1. Reuniões periódicas para avaliar o trabalho/desempenho - 1 por mês
+2. Senso de responsabilidade (Realizar tarefas atribuidas a tempo e hora)
+3. Definir papel de cada um
+3.1. Lino Macaneta
+Lider/CEO (Diretor Executivo)
+Papeis:
+- Responsavel pela visão geral do negócio, estratégia, liderança e representação externa.
+- Tomada de decisões principais, relacionamento com investidores/parceiros, definição de metas, acompanhar o progresso de todas as áreas.
+Perfil ideal: Alguém com boa visão estratégica, comunicação e liderança.
+
+Jurídico/Legal: Mesmo que informal, alguém para cuidar de contratos, termos de uso, etc.
+
+CMO (Diretor de Marketing)
+- Responsável por divulgação da marca e aquisição de clientes.
+- Criar identidade visual, planejar redes sociais, campanhas, anúncios, parcerias, estudar o mercado e concorrência.
+Perfil ideal: Criativo, comunicativo, com noções de marketing digital.
+
+
+3.2. Marcos Golias
+CFO (Diretor Financeiro)
+Papais:
+- Responsável pelas finanças, orçamentos e sustentabilidade econômica.
+- Planejamento financeiro, controle de gastos, precificação, investimentos e eventualmente procurar financiamento.
+Perfil ideal: Responsável, com noções de contabilidade ou economia, organizado.
+
+CTO (Diretor de Tecnologia)
+Papeis:
+Responsável por toda a parte técnica da solução (site, app, sistema, etc.)
+Desenvolvemento, manutenção e escolha de tecnologias, garantir segurança e performance do produto.
+Perfil ideal: Alguém com conhecimento técnico, visão prática e inovação.
+
+
+3.3. Shelton Maurício
+COO (Diretor de Operações)
+Papeis:
+- Responsável pela execução do dia a dia e organização dos processos internos.
+- Garantir que as tarefas estejam sendo feitas, organizar cronogramas, gerenciar projetos, controlar qualidade.
+Perfil ideal: Organizado, com perfil executor e foco em processos.
+
+Regra de negócio
+- Pesos iguais na tomada de decisdões.
+- Todas reuniões devem ter atas (O mais neutro a faz)
+- Agenda para todas reuniões (O dirigente da reunião)
+- 
+
+
+Tarefas
+- Lino investigar sobre ata
+- Regras de negócio (Business Owner-Lino)
+- Scrum (Shelton Maurício)
+- Microservices, Solid (Golias Marcos David)
+- 
+
+
+
+
