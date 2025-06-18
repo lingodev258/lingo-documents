@@ -1,0 +1,4 @@
+1. Regras de Negócio
+2. Requisitos Funcionais
+3. Requisitos Não Funcionais
+4. 
